@@ -1,0 +1,9 @@
+{
+	"name": "slack-file-cleaner",
+	"version": "0.0.1",
+	"author": "Ad237",
+	"description": "Tool for mass deleting files from slack, to clear space on the free plan.",
+	"dependencies": {
+		"slackbotapi": "*"
+	}
+}
